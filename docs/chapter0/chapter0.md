@@ -6,7 +6,7 @@
 
 ## 1.关于《机器学习理论导引》
 
-近年来，机器学习备受关注，机器学习的相关课程与教材可谓汗牛充栋。就国内教材而言，周志华的**《机器学习》**和李航的**《统计学习方法》**已然成为了广大学子入门机器学习的宝典。而 Mitchell 的 ***Machine Learning***， Duda 等人的 ***Pattern Classification***， Alpaydin 的 ***Introduction to Machine Learning***，则提供了一些古典风格的路径选择。若有更深入的需求， Bishop 的 ***Pattern Recognition and Machine Learning***， Murphy 的 ***Machine Learning - A Probabilistic Perspective***，Hastie 等人的 ***The Elements of Statistical Learning***，则可以系统性地给学习者提供帮助。以上的这些书籍还仅仅是广大学习材料中的一隅，似乎可以说无论国内精品，亦或海外译丛，都已不再缺乏。
+机器学习备受关注，机器学习的相关课程与教材可谓汗牛充栋。就国内教材而言，周志华的**《机器学习》**和李航的**《统计学习方法》**已然成为了广大学子入门机器学习的宝典。而 Mitchell 的 ***Machine Learning***， Duda 等人的 ***Pattern Classification***， Alpaydin 的 ***Introduction to Machine Learning***，则提供了一些古典风格的路径选择。若有更深入的需求， Bishop 的 ***Pattern Recognition and Machine Learning***， Murphy 的 ***Machine Learning - A Probabilistic Perspective***，Hastie 等人的 ***The Elements of Statistical Learning***，则可以系统性地给学习者提供帮助。以上的这些书籍还仅仅是广大学习材料中的一隅，似乎可以说无论国内精品，亦或海外译丛，都已不再缺乏。
 
 然而，若是以**机器学习理论**的视角来考察国内的学习材料，则可以得出不同的结论。与上述描述机器学习算法（Machine Learning Algorithm）的著作不同，关注机器学习理论（Machine Learning Theory）书籍似乎并没有得到多少讨论。尽管在上述的这些著作中，或多或少都展开了对于理论的探讨，但篇幅极为有限——或为些许独立篇章，或为一点只言片语，难以满足广大学子理论学习、研究之渴求。
 
